@@ -1,5 +1,0 @@
-![Установлен Midnight Commander]
-
-
-
-
