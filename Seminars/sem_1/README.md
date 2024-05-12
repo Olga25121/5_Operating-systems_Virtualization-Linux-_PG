@@ -508,7 +508,6 @@ sudo apt install openssh-server
 **Установка гостевых дополнений VirtualBox в Ubuntu.**
 
 * sudo apt update – обновить список пакетов
-* sudo apt install openssh-server mc
 * sudo apt install perl gcc make – установить пакеты
 * Запуск установки гостевых дополнений
 
